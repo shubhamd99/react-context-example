@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,QAAS,CACT,SACJ,CAEA,QACC,WAAY,CACZ,SACD","file":"main.4de29c1f.chunk.css","sourcesContent":["body {\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\n.button {\r\n\tborder: none;\r\n\toutline: 0;\r\n}"]}
